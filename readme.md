@@ -15,9 +15,9 @@ We will use three libraries for the game: `pygame`, `random`, and `os`.
 
 If you want to see this project in your computer, you will nedd install the `pygame`:
 
-'''
+```
 pip install pygame
-'''
+```
 The first thing we did was set the screen size to 500x800 pixels.
 
 Next, we created the pattern images for all the objects that we have (the bird, the pipe, the background, and the floor).
